@@ -1,1 +1,3 @@
-"# AutoCapsuleGenerate" 
+# AutoCapsuleGenerate
+
+![fig](capsule.gif)
